@@ -85,4 +85,9 @@ Este proyecto ha sido desarrollado en equipo por cinco alumnas del Bootcamp de D
 - Desarrollo colaborativo usando **GitHub**.
 - Se contó con ayuda puntual de **ChatGPT** para adaptar el código de la lógica a una interfaz más fluida.
 
+---
 
+## 🔗 Acceso a la presentación
+
+Puedes ver la presentación interactiva aquí:  
+👉 https://www.canva.com/design/DAGkIf3--9c/BlBWF-b8qitAqycyFEMlbA/edit 
