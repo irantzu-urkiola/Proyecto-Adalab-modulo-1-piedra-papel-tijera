@@ -75,7 +75,7 @@ Este proyecto ha sido desarrollado en equipo por cinco alumnas del Bootcamp de D
 - Marina Sabaté
 - Genesis Narea
 - Noemi Barrios
-- Irantzu Urkiola - irurme
+- Irantzu Urkiola 
 
 ---
 
